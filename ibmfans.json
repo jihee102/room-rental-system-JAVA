@@ -1,0 +1,17 @@
+[
+  {
+    "room" : 1,
+    "inhabitant": "Donald Knuth",
+    "price": 700
+  },
+  {
+    "room" : 2,
+    "inhabitant": "Andrew Tanenbaum",
+    "price": 600
+  },
+  {
+    "room" : 3,
+    "inhabitant": "Grace Hopper",
+    "price": 200
+  }
+]

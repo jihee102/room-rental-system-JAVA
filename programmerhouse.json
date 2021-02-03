@@ -1,0 +1,22 @@
+[
+  {
+    "room" : 1,
+    "inhabitant": "James Gosling",
+    "price": 500
+  },
+  {
+    "room" : 2,
+    "inhabitant": "Bill Gates",
+    "price": 900
+  },
+  {
+    "room" : 3,
+    "inhabitant": "Edsger Dijkstra",
+    "price": 300
+  },
+  {
+    "room" : 4,
+    "inhabitant": "Steve Jobs",
+    "price": 800
+  }
+]
